@@ -7,17 +7,21 @@
 - [Quick Sort](https://youtu.be/Z8svOqamag8)
 
 # Questions
+[Done]
 
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+- [2Sum](https://leetcode.com/problems/two-sum/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
-- [Array Partition I](https://leetcode.com/problems/array-partition-i/)
+- [Array Partition I](https://leetcode.com/problems/array-partition/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
@@ -32,27 +36,24 @@
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
-- [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+- [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-- [2Sum](https://leetcode.com/problems/two-sum/)
+
 
 ## Medium
-- [3Sum](https://leetcode.com/problems/3sum/)
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-- [4Sum](https://leetcode.com/problems/4sum/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-- [Sort List](https://leetcode.com/problems/sort-list/)
-- [Largest Number](https://leetcode.com/problems/largest-number/)
-- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [4Sum](https://leetcode.com/problems/4sum/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Largest Number](https://leetcode.com/problems/largest-number/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
 
 ## Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)

@@ -23,9 +23,10 @@
 - [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
+
 ## Medium
 - [Subsets](https://leetcode.com/problems/subsets/)
-- [Subsets II](https://leetcode.com/problems/subsets-ii/)
+- ***[Subsets II](https://leetcode.com/problems/subsets-ii/)
 - [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - [Gray Code](https://leetcode.com/problems/gray-code/)
@@ -33,8 +34,10 @@
 
 ## Hard
 - [Minimum Number of Flips to onvert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
-- [Minimum cost to connect two group of points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
 - [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
+
+- [Minimum cost to connect two group of points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
+
 
 # Additionally
 - Click on [*Show problem tags*](https://leetcode.com/tag/bit-manipulation/) and do the questions that contains tags of topics we have covered so far.

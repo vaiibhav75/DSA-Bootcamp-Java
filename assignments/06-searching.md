@@ -1,12 +1,14 @@
 # Videos:
+
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
 - [Binary Search](https://youtu.be/f6UU7V3szVw)
 - [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
 - [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo)
-
+[DONE]
 # Problems:
 
 ## Easy
+
 - [Square Root](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
@@ -26,6 +28,7 @@
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
+
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -45,11 +48,14 @@
 - [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
+
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
-- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+
+

@@ -12,8 +12,10 @@
 - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
 - [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
 - [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
-- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`4
+
 ## Medium
+- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
@@ -30,11 +32,18 @@
 - [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
 - [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
+- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+- [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+- [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
 
 ## Hard
+- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 - [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
 - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
 - [Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`
 - [Count number of islands](https://leetcode.com/problems/number-of-islands/) `leetcode`
+- [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
+
+

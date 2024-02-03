@@ -14,11 +14,16 @@
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
 ## Medium
+- [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+- [Sort List](https://leetcode.com/problems/sort-list/)
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
 - [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
+
+[Remaining]
 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`

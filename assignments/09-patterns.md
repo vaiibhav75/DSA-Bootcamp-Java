@@ -1,5 +1,5 @@
 Pattern Questions
-
+[DONE]
 Print these patterns using loops:
 
 ```text

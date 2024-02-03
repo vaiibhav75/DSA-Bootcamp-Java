@@ -1,5 +1,5 @@
 # [Video link](https://youtu.be/lmSpZ0bjCyQ)
-
+[DONE]
 ## Problems
 - Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contains tags of topics we have covered so far.
 
@@ -28,13 +28,19 @@
 - [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
-- [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - [Integer Break](https://leetcode.com/problems/integer-break/)
+- [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 
 
 ## Hard
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
-- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-- [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
+
+- [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+
+
+
+
 
