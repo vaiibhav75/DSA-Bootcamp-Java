@@ -36,8 +36,5 @@
 - [Minimum Number of Flips to onvert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
 - [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
 
-- [Minimum cost to connect two group of points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
-
-
 # Additionally
 - Click on [*Show problem tags*](https://leetcode.com/tag/bit-manipulation/) and do the questions that contains tags of topics we have covered so far.

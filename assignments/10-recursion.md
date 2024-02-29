@@ -70,14 +70,14 @@
 - [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
 - [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
-
-
 - [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
-- [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
-- [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
+- [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
+[Read Only]
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
-- [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
+- [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
+- [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG
+

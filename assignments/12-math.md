@@ -35,7 +35,6 @@
 ## Hard
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 - [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
-
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 
 
