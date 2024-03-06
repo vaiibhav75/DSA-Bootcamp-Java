@@ -23,6 +23,7 @@
 
 ## Medium
 
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
 - [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
 - [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`

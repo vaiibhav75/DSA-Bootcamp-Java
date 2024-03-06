@@ -23,7 +23,6 @@
 - [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
-
 ## Medium
 - [Subsets](https://leetcode.com/problems/subsets/)
 - ***[Subsets II](https://leetcode.com/problems/subsets-ii/)

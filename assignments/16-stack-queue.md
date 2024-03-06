@@ -18,32 +18,32 @@
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
-
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
-
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
-- [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
-- [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
-- [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`
-- [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
-- [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
-- [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
-- [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
-- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
-- [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
-- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+- [Count number of islands](https://leetcode.com/problems/number-of-islands/) `leetcode`
 - [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
 - [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+- [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
+- [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
+
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`
+- [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
+- [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
+- [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
+- [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
+- [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
+
 
 ## Hard
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 - [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
+- [Read only][Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`
+- [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
+
 - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
-- [Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`
-- [Count number of islands](https://leetcode.com/problems/number-of-islands/) `leetcode`
-- [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
 
 
