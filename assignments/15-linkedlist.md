@@ -18,7 +18,7 @@
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
-- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
+- [Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
@@ -47,6 +47,7 @@
 - [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`leetcode`
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
 - [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
+- [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 
 ## Hard
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`

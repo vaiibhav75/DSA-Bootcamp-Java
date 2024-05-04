@@ -56,6 +56,13 @@
 
 - [Valid Number](https://leetcode.com/problems/valid-number/)
 
+- [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+- [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
+- [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
+- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+- [Special Binary String](https://leetcode.com/problems/special-binary-string/)
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)

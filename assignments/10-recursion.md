@@ -74,6 +74,8 @@
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
+- [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
+
 [Read Only]
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
